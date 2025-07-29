@@ -1,6 +1,6 @@
 # Data Visualization & Analytics Portfolio
 
-This repository showcases my **data visualization and analytics projects**, created using Tableau and Python.  
+This repository showcases my **data visualization and analytics projects**, created using Tableau.  
 Each project demonstrates my ability to **transform data into actionable insights** through dashboards, visual storytelling, and interactive analytics.
 
 ## Featured Projects
@@ -14,7 +14,7 @@ Each project demonstrates my ability to **transform data into actionable insight
    🔗 [View Dashboard](https://public.tableau.com/views/sales_insights_17208884955170/Tableaudebord1)
 
 3. **[Global COVID-19 Statistics Dashboard](Global_COVID19_Stats_Dashboard/README.md)**  
-   *Interactive global pandemic dashboard with country-level trends and KPIs.*  
+   *Interactive global pandemic dashboard with country-level trends.*  
    🔗 [View Dashboard](https://public.tableau.com/views/global-stats-covid-data/Feuille3)
 
 4. **[Loan Analysis Dashboard](Loan_Analysis_Dashboard/README.md)**  
