@@ -21,7 +21,7 @@ Each project demonstrates my ability to **transform data into actionable insight
    *Loan approvals, repayment performance, and default analysis for portfolio management.*  
    🔗 [View Dashboard](https://public.tableau.com/views/loan_analysis_3/Tableaudebord1)
 
-5. **[Symptoms of Wealth Inequality Dashboard](Symp_wealth_ine_Dashboard/README.md)**  
+5. **[Symptoms of Wealth Inequality Dashboard](Symp_wealth_ine_Dashboard/readme.md)**  
    *Interactive visualization highlighting income disparities, demographic gaps, and socioeconomic inequality patterns.*  
    🔗 [View Dashboard](https://public.tableau.com/app/profile/franck.talla/viz/SymptomsofWealthInequality_17551125277080/SymptomsofWealthInequality)
 
