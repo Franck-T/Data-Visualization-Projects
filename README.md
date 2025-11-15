@@ -21,6 +21,22 @@ Each project demonstrates my ability to **transform data into actionable insight
    *Loan approvals, repayment performance, and default analysis for portfolio management.*  
    🔗 [View Dashboard](https://public.tableau.com/views/loan_analysis_3/Tableaudebord1)
 
+5. **[Symptoms of Wealth Inequality Dashboard](Symp_wealth_ine_Dashboard/README.md)**  
+   *Interactive visualization highlighting income disparities, demographic gaps, and socioeconomic inequality patterns.*  
+   🔗 [View Dashboard](https://public.tableau.com/app/profile/franck.talla/viz/SymptomsofWealthInequality_17551125277080/SymptomsofWealthInequality)
+
+6. **[Titanic Passenger Survival Dashboard](Titanic-passenger-analysis/README.md)**  
+   *Survival analysis by embarkation port, passenger class, age group, and gender using the historic Titanic dataset.*  
+   🔗 [View Dashboard](https://public.tableau.com/app/profile/franck.talla/viz/TitanicPassengerSurvivalByPortofEmbarkation/TitanicPassengerSurvivalByPortofEmbarkation)
+
+7. **[U.S. Population Density Dashboard](US_pop_analysis/README.md)**  
+   *Geospatial choropleth showing population distribution across U.S. states for demographic and planning insights.*  
+   🔗 [View Dashboard](https://public.tableau.com/app/profile/franck.talla/viz/USPopulationDensityModeling_17557905520120/USPopulationDensityModeling)
+
+8. **[Restaurant Survey Analysis Dashboard](restau_analysis_Dashboard/README.md)**  
+   *Likert-style sentiment visualization summarizing customer satisfaction across service, food quality, ambience, and cleanliness.*  
+   🔗 [View Dashboard](https://public.tableau.com/app/profile/franck.talla/viz/RestaurantSurveyAnalysis_17558813988590/LikertScaleChart)
+
 ---
 
 ## Tools & Skills Highlighted
